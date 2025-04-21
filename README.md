@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning web application using laravel , Django
 - 💞️ I’m looking to collaborate on web design and web development
-- 📫 How to reach me mtumzimaevarest@gmail.com or 0689664224 whatsapp
+- 📫 How to reach me brianevarest423@gmail.com or +255689664224 whatsapp
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like gamming much
 
