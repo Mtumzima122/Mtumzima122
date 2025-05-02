@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mtumzima122
+- 👋 Hi, I’m Brian Evarest
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning web application using php, Django
 - 💞️ I’m looking to collaborate on web design and web development
